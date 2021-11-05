@@ -1,5 +1,5 @@
 
-# Hi, soy eCituk 👋🏾 🖥🏾‍💻
+# Hi, soy eCituk 👋🏾🖥🏾‍💻
 
 <img src="https://github.com/engelcituk/engelcituk/blob/main/eCituk.png" alt="banner que dice que eCituk es un desarrolador web">
 
