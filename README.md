@@ -5,7 +5,11 @@
 
 <h3 align="center">Apasionado por el desarrollo web, de México :)</h3>
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+Mi meta es llegar a ser un fullstack developer o bien alcazar el nivel que se considera ser un software engineer. 
+Mi recorrido en el ámbito del desarrollador es de constante aprendizaje, ultimamente JavaScript me ha dado
+muchas alegrías, me apasiona mucho Vuejs, he trabajado con Angular y ReactJs y de estos el que me ha gustado más
+es Vuejs. En backend con PHP me encanta Laravel, el trabajo ocupamos Python y Django.
+
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -17,9 +21,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 - 🔭 Actualmente trabajo en The Fives Hotels, varios proyectos. [Core de ventas](https://sales.thefives.com.mx/)
 
-- 👨‍💻 De momento mis proyectos los expongo aquí [https://www.linkedin.com/in/ecituk/](https://www.linkedin.com/in/ecituk/)
+- 👨‍💻 De momento mis proyectos los enlisto en mi linkedin, aquí [https://www.linkedin.com/in/ecituk/](https://www.linkedin.com/in/ecituk/)
 
-- 💬 Ask me about Preguntame sobre **Laravel, Vuejs, Javascript**
+- 💬 Me podrías preguntar sobre **Laravel, Vuejs, Javascript**
 
 - 📫 Como encontrarme **ecitukcaamal@gmail.com**
 
