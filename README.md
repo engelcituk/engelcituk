@@ -3,7 +3,7 @@
 
 <img src="https://github.com/engelcituk/engelcituk/blob/main/eCituk.png" alt="banner que dice que eCituk es un desarrolador web">
 
-<h3 align="center">Apasionado por el desarrollo web, de México :)</h3>
+<h3 align="center">Apasionado por el desarrollo web</h3>
 
 Mi meta es llegar a ser un fullstack developer o bien alcazar el nivel que se considera ser un software engineer. 
 Mi recorrido en el ámbito del desarrollador es de constante aprendizaje, ultimamente JavaScript me ha dado
