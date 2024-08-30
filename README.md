@@ -11,7 +11,6 @@ muchas alegrías, me apasiona mucho Vuejs, he trabajado con Angular y ReactJs y 
 es Vuejs. En backend con PHP me encanta Laravel, el trabajo ocupamos Python y Django.
 
 
-- 🔭 Actualmente trabajo en The Fives Hotels, varios proyectos. [Core de ventas](https://sales.thefives.com.mx/)
 
 - 👨‍💻 De momento mis proyectos los enlisto en mi linkedin, aquí [https://www.linkedin.com/in/ecituk/](https://www.linkedin.com/in/ecituk/)
 
